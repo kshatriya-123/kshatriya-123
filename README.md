@@ -38,8 +38,6 @@
 
 ---
 
----
-
 # 🎮 Pacman Contribution Animation
 
 <p align="center">
