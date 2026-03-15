@@ -38,12 +38,6 @@
 
 ---
 
-# 🧊 3D Contribution Cube
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kshatriya-123/kshatriya-123/main/profile-3d-contrib/profile-night-view.svg" />
-</p>
-
 ---
 
 # 🎮 Pacman Contribution Animation
