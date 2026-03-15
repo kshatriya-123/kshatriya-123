@@ -1,16 +1,84 @@
-## Hi there 👋
+<!-- Animated Typing Header -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Manu+Kumar;EE+%26+CS+Student;Hardware+%2B+Software+Enthusiast;Building+Projects+with+Code+and+Circuits" />
+</p>
 
-<!--
-**kshatriya-123/kshatriya-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hello Developers!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **B.E. in Electrical Engineering & Computer Science**  
+⚡ Interested in **Digital Design, Verilog, Embedded Systems & Programming**  
+💻 Building projects combining **hardware and software**
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight"/>
+</p>
+
+---
+
+# 🧊 3D Contribution Cube
+
+<p align="center">
+<img src="https://github.com/your-username/your-username/blob/main/profile-3d-contrib/profile-night-view.svg" />
+</p>
+
+---
+
+# 🎮 Pacman Contribution Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+🚦 **Traffic Light Controller using Verilog**  
+Digital logic implementation of a traffic signal system.
+
+*(More projects coming soon)*
+
+---
+
+# 🌱 Currently Learning
+- Verilog & Digital System Design  
+- FPGA Basics  
+- Embedded Systems  
+- Advanced Programming
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/your-username">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+⭐ **"Turning ideas into code and circuits."**
