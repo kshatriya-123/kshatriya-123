@@ -24,8 +24,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kshatriya-123&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshatriya-123&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=kshatriya-123&theme=tokyonight"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 # 🧊 3D Contribution Cube
 
 <p align="center">
-<img src="https://github.com/your-username/your-username/blob/main/profile-3d-contrib/profile-night-view.svg" />
+<img src="https://github.com/kshatriya-123/kshatriya-123/blob/main/profile-3d-contrib/profile-night-view.svg" />
 </p>
 
 ---
