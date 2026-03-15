@@ -41,8 +41,7 @@
 # 🧊 3D Contribution Cube
 
 <p align="center">
-<img src="https://github.com/kshatriya-123/kshatriya-123/blob/main/profile-3d-contrib/profile-night-view.svg" />
-  ![3D Contribution](./profile-3d-contrib/profile-night-view.svg)
+  <img src="https://raw.githubusercontent.com/kshatriya-123/kshatriya-123/main/profile-3d-contrib/profile-night-view.svg" />
 </p>
 
 ---
